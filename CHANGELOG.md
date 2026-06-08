@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Update README.md preview image syntax to use standard Markdown with absolute raw GitHub URLs.
+
 ## 0.0.2
 
 * Add YouTube Shorts showcase link to README.md.
