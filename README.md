@@ -2,13 +2,21 @@
 
 A highly customizable, beautiful, and interactive OTP (One-Time Password) / PIN entry widget for Flutter. It features rich visual aesthetics, micro-animations, verification loaders, error/success states, and optional security (obscure text) masking.
 
-[![YouTube Shorts](https://img.shields.io/badge/YouTube-Shorts-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/S8hR8s3T9L8)
+## 🎬 Demo
+
+<p align="center">
+  <a href="https://youtube.com/shorts/S8hR8s3T9L8">
+    <img src="https://img.youtube.com/vi/S8hR8s3T9L8/0.jpg" alt="Watch Demo" width="280"/>
+    <br/>
+    <strong>▶️ Click to Watch Demo</strong>
+  </a>
+</p>
 
 ## Preview
 
 | Empty State | Input State | Obscured (Dot) | Obscured (Star) | Obscured (Heart) |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Empty State](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/assets/screenshot_empty.png) | ![Input State](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/assets/screenshot_normal_text.png) | ![Obscured Dot](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/assets/screenshot_obscured_dot.png) | ![Obscured Star](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/assets/screenshot_obscured_star.png) | ![Obscured Heart](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/assets/screenshot_obscured_heart.png) |
+| ![Empty State](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/screenshots/screenshot_empty.png) | ![Input State](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/screenshots/screenshot_normal_text.png) | ![Obscured Dot](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/screenshots/screenshot_obscured_dot.png) | ![Obscured Star](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/screenshots/screenshot_obscured_star.png) | ![Obscured Heart](https://raw.githubusercontent.com/abdalrhmanreda/premium-otp-input-package/main/screenshots/screenshot_obscured_heart.png) |
 
 ## Features
 

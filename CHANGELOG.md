@@ -1,3 +1,9 @@
+## 0.0.4
+
+* Re-organize preview screenshots into a top-level screenshots folder.
+* Add YouTube Shorts demo thumbnail video preview.
+* Remove assets section from pubspec.yaml.
+
 ## 0.0.3
 
 * Update README.md preview image syntax to use standard Markdown with absolute raw GitHub URLs.
