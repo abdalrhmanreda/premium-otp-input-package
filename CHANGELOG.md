@@ -1,10 +1,7 @@
-## 0.0.3
-
-* Declare assets directory in pubspec.yaml for package resources.
-
 ## 0.0.2
 
 * Add YouTube Shorts showcase link to README.md.
+* Declare assets directory in pubspec.yaml for package resources.
 
 ## 0.0.1
 
