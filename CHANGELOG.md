@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Add YouTube Shorts showcase link to README.md.
+
 ## 0.0.1
 
 * Initial release of Premium OTP Input package.

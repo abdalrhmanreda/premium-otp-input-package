@@ -1,6 +1,6 @@
 name: premium_otp_input
 description: A highly customizable, beautiful, and interactive OTP and PIN entry widget for Flutter featuring rich animations, verification loaders, and secure masking.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/abdalrhmanreda/premium-otp-input-package
 
 environment:

@@ -2,6 +2,8 @@
 
 A highly customizable, beautiful, and interactive OTP (One-Time Password) / PIN entry widget for Flutter. It features rich visual aesthetics, micro-animations, verification loaders, error/success states, and optional security (obscure text) masking.
 
+[![YouTube Shorts](https://img.shields.io/badge/YouTube-Shorts-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/S8hR8s3T9L8)
+
 ## Preview
 
 | Empty State | Input State | Obscured (Dot) | Obscured (Star) | Obscured (Heart) |
